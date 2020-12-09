@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb8492d9-4998-4bb3-976f-33e7f456dc3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Week03/test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week03/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/main.go" afterDir="false" />
     </list>
@@ -110,9 +113,11 @@
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1607529892163" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1607530423175" />
-    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup" timestamp="1607522964718">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state x="385" y="160" width="670" height="679" key="search.everywhere.popup" timestamp="1607557539527">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="385" y="159" width="670" height="676" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1607522964718" />
+    <state x="385" y="160" width="670" height="679" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1607557539527" />
+    <state x="385" y="160" width="670" height="680" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1607556817944" />
   </component>
 </project>

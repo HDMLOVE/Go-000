@@ -17,8 +17,8 @@ func serverApp(ctx context.Context, addr string) error {
 		Addr: addr,
 		Handler: mux,
 	}
-	mux.HandleFunc("/ping", func(writer http.ResponseWriter, request *http.Request) {
-		writer.Write([]byte("pong"))
+	mux.HandleFunc("/", func(writer http.ResponseWriter, request *http.Request) {
+		writer.Write([]byte("Hello "))
 	})
 	go func() {
 		<- ctx.Done()
@@ -56,7 +56,6 @@ func serverSignal(ctx context.Context, ch chan os.Signal) error {
 	}
 }
 
-/* 刚学Go不熟悉 代码参考同学的~ */
 func main() {
 	g, ctx := errgroup.WithContext(context.Background())
 	g.Go(func() error {
