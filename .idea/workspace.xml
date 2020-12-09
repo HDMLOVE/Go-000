@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb8492d9-4998-4bb3-976f-33e7f456dc3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week02/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week02/aaaa" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Week03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,21 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go-000" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Week03/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -73,8 +87,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1607530423175">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1607529892164" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1607530423175" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1607530423175">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1607529892162" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1607530423175" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1607530423175">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1607529892161" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1607530423175" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1607530423175">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1607529892163" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1607530423175" />
     <state x="385" y="159" width="670" height="676" key="search.everywhere.popup" timestamp="1607522964718">
       <screen x="0" y="23" width="1440" height="812" />
     </state>

@@ -12,6 +12,6 @@ biz:
 if errors.Is(err, code.NotFound} {
 }
 ```
-##笔记📒
+## 笔记📒
 1、panic 要慎用！！！！
 2、
